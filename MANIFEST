@@ -1,6 +1,6 @@
 Changes
 Makefile.PL
 MANIFEST
-Menu.pm
+lib/Template/Plugin/HTML/Menu.pm
 README
 t/1.t
