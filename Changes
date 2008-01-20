@@ -1,6 +1,0 @@
-Revision history for Perl extension Template::Plugin::HTML::Menu.
-
-0.01  Sat Nov 23 12:07:32 2002
-	- original version; created by h2xs 1.22 with options
-		-X -A -b 5.6.0 -n Template::Plugin::HTML::Menu
-
